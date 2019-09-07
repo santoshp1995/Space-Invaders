@@ -1,5 +1,5 @@
 # Space-Invaders
-Game of Space Invaders created in C# as part of the SE456 Architecture of Real-Time Systems class at DePaul University during the Winter 2019 term. For this project I was tasked with recreating the original arcade game as much as I possibly could. I used a total of 10 design patterns throughout the development process.
+Game of Space Invaders created in C# as part of the SE456 Architecture of Real-Time Systems class at DePaul University during the Winter 2019 quarter.For this project I was tasked with recreating the original arcade game as much as I possibly could. I used a total of 10 design patterns throughout the development process.
 
 Those 10 patterns are:
 
