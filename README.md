@@ -13,3 +13,7 @@ Those 10 patterns are:
 8. Proxy - Provided a placeholder for Game Sprites to make specific modifications
 9. State - Various ship states and game cycling modes
 10. Strategy - Used on Alien bombs to define different animations for each individual bomb.
+
+This is just the source code....
+
+Please go here to see the game in action! (YouTube Link) : https://www.youtube.com/watch?v=_wM28aI-ovY
